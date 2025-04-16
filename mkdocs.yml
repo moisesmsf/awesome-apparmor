@@ -1,0 +1,60 @@
+site_name: Awesome AppArmor
+site_url: https://moisesmsf.github.io/awesome-apparmor
+site_description: A curated list of awesome things related to AppArmor
+site_author: moisesmsf
+repo_url: https://github.com/moisesmsf/awesome-apparmor
+repo_name: moisesmsf/awesome-apparmor
+edit_uri: edit/main/docs/
+theme:
+  logo: assets/apparmor-icon.png
+  favicon: assets/favicon.ico
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - content.code.copy
+    - content.code.select
+    - navigation.instant
+    - navigation.tracking
+    - navigation.footer
+    - navigation.top
+    - search.sugest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.action.view
+  palette:
+    # Palette toggle for light mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+plugins:
+  - search:
+      lang: en
+  - privacy
+  - social
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/moisesmsf
+      name: moisesmsf on Github
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/moisesmsf
+      name: moisesmsf on Linkedin
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/moisesmsf
+      name: moisesmsf on Linkedin
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:moisesmsf@proton.me
+      name: moisesmsf's email
+markdown_extensions:
+  - abbr
+  - toc:
+      permalink: "#"

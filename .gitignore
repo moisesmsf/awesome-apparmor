@@ -1,0 +1,6 @@
+*.sh
+*.txt
+*.env
+template.md
+.venv
+.cache
