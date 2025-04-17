@@ -18,6 +18,7 @@ theme:
     - navigation.tracking
     - navigation.footer
     - navigation.top
+    - toc.integrate
     - search.sugest
     - search.highlight
     - search.share
