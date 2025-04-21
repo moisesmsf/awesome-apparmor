@@ -105,14 +105,21 @@
 - [Restrict a Container's Access to Resources with AppArmor - Kubernetes Documentation](https://kubernetes.io/docs/tutorials/security/apparmor/)
 - [Container Hardening Process - Hardened Linux](https://hardenedlinux.org/blog/2024-10-13-container-hardening-process/)
 - [Linux Sandboxing: a brief review - Hardened Linux](https://hardenedlinux.org/blog/2024-08-20-gnu/linux-sandboxing-a-brief-review)
+- [Securing PHP-FPM with AppArmor - FREDERIK HIMPE](https://blog.frehi.be/2024/01/06/securing-php-fpm-with-apparmor)
+- [Protecting systemd services with AppArmor - FREDERIK HIMPE](https://blog.frehi.be/2024/01/04/protecting-systemd-services-with-apparmor/)
+- [Protecting your Linux server against security exploits with AppArmor - FREDERIK HIMPE](https://blog.frehi.be/2023/12/25/protecting-your-linux-server-against-security-exploits-with-apparmor/)
 - [A Study of Application Sandbox Policies in Linux - Trevor Dunlap, William Enck, Bradley Reaves](https://www.enck.org/pubs/dunlap-sacmat22.pdf)
 - [AppArmor Profile Generator as a Cloud Service - Hui Zhu, Christian Gehrmann](https://www.scitepress.org/Papers/2021/104341/104341.pdf)
 - [A Comparative Analysis of Linux Mandatory Access Control Policy Enforcement Mechanisms - Brennon Brimhall et al](https://dl.acm.org/doi/pdf/10.1145/3578357.3589454)
+- [Security and Access Control - APERTIS](https://www.apertis.org/guides/app_devel/apparmor/)
+- [Mitigating the Damage in the Compromised Webserver using AppArmor - tbhaxor's Blog ](https://tbhaxor.com/mitigating-the-damage-in-the-compromised-webserver-using-apparmor/)
+- [AppArmor - HackTricks ](https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/docker-security/apparmor.html)
 
 ---
 
 ### Videos and Presentations
 
+- [Restricting Unprivileged User Namespaces in Ubuntu - John Johansen & Maxime Bélair, Canonical - Linux Security Summit Europe 24](https://www.youtube.com/watch?v=GcVjng8WVeg) - A retrospective on the work to restrict unprivileged user namespaces by default in Ubuntu 24.04. This presentation will cover the challenges, problems, and the solutions that Ubuntu choose. It will also take a look at work to address the problems that remain. Video.
 - [Linux Containers with AppArmor Policy Namespaces - Leesoo Ahn - DebConf 24](https://debconf24.debconf.org/talks/106-linux-containers-with-apparmor-policy-namespaces/)
 - [Unprivileged Access Control in AppArmor - John Johansen & Georgia Garcia, Canonical - Linux Security Summit North America 2024](https://www.youtube.com/watch?v=HJ5BMX52dhI) - Video
 - [LSM Updates: IMA, SELinux, AppArmor, SMACK &... - Roberto Sassu, Paul Moore, John Johansen & KP Singh - Linux Security Summit Europe 2023](https://www.youtube.com/watch?v=ifVioMPhEZE) - Video
