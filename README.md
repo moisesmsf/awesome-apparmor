@@ -42,6 +42,7 @@
     - [AppArmor Ubuntu Repo](https://code.launchpad.net/ubuntu/+source/apparmor)
     - [AppArmor Ubuntu Wiki](https://wiki.ubuntu.com/AppArmor)
     - [AppArmor Ubuntu package](https://launchpad.net/ubuntu/+source/apparmor)
+    - [AppArmor Ubuntu package - Bugs](https://bugs.launchpad.net/ubuntu/+source/apparmor)
     - [AppArmor Ubuntu Server Doc](https://documentation.ubuntu.com/server/how-to/security/apparmor/)
     - [AppArmor Ubuntu Community Wiki](https://help.ubuntu.com/community/AppArmor)
     - [AppArmor Ubuntu Tutorial](https://ubuntu.com/tutorials/beginning-apparmor-profile-development)
@@ -64,9 +65,11 @@
     - [AppArmor ArchLinux Wiki](https://wiki.archlinux.org/title/AppArmor)
     - [AppArmor ArchLinux Package](https://archlinux.org/packages/extra/x86_64/apparmor/)
     - [AppArmor ArchLinux repo](https://gitlab.archlinux.org/archlinux/packaging/packages/apparmor)
-- AppArmor at Gentoo:
+- AppArmor at Other Distributions:
     - [AppArmor Gentoo WIki](https://wiki.gentoo.org/wiki/Security_Handbook/Linux_Security_Modules/AppArmor)
-
+    - [AppArmor Kicksecure WIki](https://www.kicksecure.com/wiki/AppArmor)
+    - [Whonix AppArmor Profiles Development Discussion - Whonix Forums](https://forums.whonix.org/t/whonix-apparmor-profiles-development-discussion/108)
+    - [Application Isolation - Tails](https://tails.net/contribute/design/application_isolation)
 ---
 
 ### apparmor.d Project
