@@ -102,21 +102,30 @@
 ---
 
 ### Articles
+- [AppArmor - c1b3rn0t3s](https://gitblanc.github.io/c1b3rn0t3s/notes/AppArmor)
 - [Three bypasses of Ubuntu's unprivileged user namespace restrictions - Qualys Security Advisory](https://www.qualys.com/2025/three-bypasses-of-Ubuntu-unprivileged-user-namespace-restrictions.txt)
 - [Abusing Ubuntu 24.04 features for root privilege escalation - Snyk](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
 - [AppArmor security profiles for Docker - Docker Documentation](https://docs.docker.com/engine/security/apparmor/)
 - [Restrict a Container's Access to Resources with AppArmor - Kubernetes Documentation](https://kubernetes.io/docs/tutorials/security/apparmor/)
 - [Container Hardening Process - Hardened Linux](https://hardenedlinux.org/blog/2024-10-13-container-hardening-process/)
 - [Linux Sandboxing: a brief review - Hardened Linux](https://hardenedlinux.org/blog/2024-08-20-gnu/linux-sandboxing-a-brief-review)
+- [Advanced Docker Security with AppArmor - GCORE](https://gcore.com/learning/advanced-docker-security-with-apparmor)
+- [What is Apparmor and how to add a security layer with it in Docker? - theodo Cloud](https://security.theodo.com/en/blog/security-docker-apparmor)
 - [Securing PHP-FPM with AppArmor - FREDERIK HIMPE](https://blog.frehi.be/2024/01/06/securing-php-fpm-with-apparmor)
 - [Protecting systemd services with AppArmor - FREDERIK HIMPE](https://blog.frehi.be/2024/01/04/protecting-systemd-services-with-apparmor/)
 - [Protecting your Linux server against security exploits with AppArmor - FREDERIK HIMPE](https://blog.frehi.be/2023/12/25/protecting-your-linux-server-against-security-exploits-with-apparmor/)
 - [A Study of Application Sandbox Policies in Linux - Trevor Dunlap, William Enck, Bradley Reaves](https://www.enck.org/pubs/dunlap-sacmat22.pdf)
 - [AppArmor Profile Generator as a Cloud Service - Hui Zhu, Christian Gehrmann](https://www.scitepress.org/Papers/2021/104341/104341.pdf)
 - [A Comparative Analysis of Linux Mandatory Access Control Policy Enforcement Mechanisms - Brennon Brimhall et al](https://dl.acm.org/doi/pdf/10.1145/3578357.3589454)
+- [Lic-Sec: An enhanced AppArmor Docker security profile generator - Hui Zhu; Christian Gehrmann](https://www.sciencedirect.com/science/article/pii/S2214212621001435)
+- [Advanced Docker Security with AppArmor - An Overview - HACKERNOON](https://hackernoon.com/advanced-docker-security-with-apparmor-an-overview-k61m3xjf)
 - [Security and Access Control - APERTIS](https://www.apertis.org/guides/app_devel/apparmor/)
 - [Mitigating the Damage in the Compromised Webserver using AppArmor - tbhaxor's Blog ](https://tbhaxor.com/mitigating-the-damage-in-the-compromised-webserver-using-apparmor/)
+- [Confining Resources inside Docker Containers with AppArmor - tbhaxor's Blog ](https://tbhaxor.com/confining-resources-inside-docker-containers-with-apparmor/)
+- [Writing AppArmor Profile from Scratch - tbhaxor's Blog ](https://tbhaxor.com/writing-apparmor-profile-from-scratch/)
 - [AppArmor - HackTricks ](https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/docker-security/apparmor.html)
+- [Securing containers with AppArmor - Google Cloud Container-Optimized OS Guides](https://cloud.google.com/container-optimized-os/docs/how-to/secure-apparmor)
+- [Lab: AppArmor - Dockerlabs Collabnix](https://dockerlabs.collabnix.com/advanced/security/apparmor/)
 
 ---
 
