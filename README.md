@@ -77,7 +77,6 @@
 - [apparmor.d Website](https://apparmor.pujol.io/)
 - [apparmor.d Repo](https://github.com/roddhjav/apparmor.d)
 - [apparmor.d Matrix Chat](https://matrix.to/#/#apparmor.d:matrix.org)
-- [apparmor.d Repo](https://github.com/roddhjav/apparmor.d)
 - apparmor.d Presentations
     - Linux Security Summit North America 2023: [Slide](https://lssna2023.sched.com/event/1K7bI/building-the-largest-working-set-of-apparmor-profiles-alexandre-pujol-the-collaboratory-tudublin); [Video](https://www.youtube.com/watch?v=OzyalrOzxE8)
     - Ubuntu Summit 2023: [Slide](https://events.canonical.com/event/31/contributions/209/); [Video](https://www.youtube.com/watch?v=GK1J0TlxnFI)
